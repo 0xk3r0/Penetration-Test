@@ -8,6 +8,11 @@
 ### Additionally, it can fulfill numerous other demands in your job.
 
 # How to use
+### **First, you must install the libraries**
+### In your terminal write this command
+### 1- pip install faker
+### 2- pip install tkinter
+### **Second, steps you need to do**
 ### 1- Run the program.
 ### 2- Input the desired file name in the first field.
 ### 3- Enter the number of rows you need in the second field.
