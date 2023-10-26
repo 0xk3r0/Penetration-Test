@@ -8,7 +8,7 @@
 ### Additionally, it can fulfill numerous other demands in your job.
 
 # How to use
-### **First, you must install the libraries**
+### **First, you must install Python, then the libraries**
 ### In your terminal write this command
 ### 1- pip install faker
 ### 2- pip install tkinter
