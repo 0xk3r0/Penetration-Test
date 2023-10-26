@@ -76,7 +76,7 @@ faker = Faker()
 Note: There's alot of keys you can use by Faker package
 like {'country', 'credit_card', 'company'}, "search on Faker methods"
 """
-keys = ['id', 'name', 'address', 'job', 'email', 'phone']
+keys = ['id', 'name', 'country', 'job', 'email', 'phone']
 
 # Create an empty list to store the data
 data = []
@@ -84,14 +84,14 @@ data = []
 # Define a function to create a CSV file
 def csv_File_Create(file_name, number_of_rows):
     id = 1
-    with open(file_name, 'w+') as file:
+    with open(file_name, 'w',newline='' ) as file:
         file_data = csv.DictWriter(file, fieldnames=keys)
         file_data.writeheader()
         for row in range(int(number_of_rows)):
             data_dict = {}
             data_dict['id'] = id
             data_dict['name'] = faker.name()
-            data_dict['address'] = faker.address()
+            data_dict['country'] = faker.country()
             data_dict['job'] = faker.job()
             data_dict['email'] = faker.free_email()
             data_dict['phone'] = faker.phone_number()
