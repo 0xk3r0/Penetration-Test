@@ -11,7 +11,7 @@
 ### **First, you must install Python, then the libraries**
 ### In your terminal write this command
 ### 1- pip install faker
-### 2- pip install tkinter
+### 2- pip install tk
 ### **Second, steps you need to do**
 ### 1- Run the program.
 ### 2- Input the desired file name in the first field.
