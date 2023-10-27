@@ -9,6 +9,7 @@
 
 # How to use
 ### **First, you must install Python, then the libraries**
+### Create a folder on the desktop, then inside this folder, create a Python file. Open the folder in your text editor.
 ### In your terminal write this command
 ### 1- pip install faker
 ### 2- pip install tk
