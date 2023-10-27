@@ -19,3 +19,9 @@
 ### 3- Enter the number of rows you need in the second field.
 ### 4- Click the "Generate" button.
 ## **Note:** The generated csv file will be created next to the script code.
+## Warning
+Actual limit will depend on factors like the available memory, processing power,<br>
+And and the specific resources of the system where the code is running.<br>
+You can generate as many rows as your system can handle without running out of<br> 
+memory or encountering performance issues. However, keep in mind that generating<br>an extremely 
+large number of rows could lead to resource exhaustion or performance degradation.
