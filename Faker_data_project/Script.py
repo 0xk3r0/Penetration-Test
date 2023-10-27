@@ -92,11 +92,11 @@ def csv_File_Create(file_name, number_of_rows):
             data_dict['id'] = id
             data_dict['name'] = faker.name()
             while True:
-                data_dict['country'] = faker.name()
-                data_dict['job'] = faker.name()
-                if ',' in data_dict['country'] or ',' in data_dict['country']:
-                    data_dict['country'] = faker.name()
-                    data_dict['job'] = faker.name()
+                data_dict['country'] = faker.country()
+                data_dict['job'] = faker.job()
+                if ',' in data_dict['country'] or ',' in data_dict['job']:
+                    data_dict['country'] = faker.country()
+                    data_dict['job'] = faker.job()
                 else:
                     break
             data_dict['email'] = faker.free_email()
