@@ -1,4 +1,4 @@
-# Fake Data Generator
+# Data Generator
 
 ### This program is designed to generate fake data, serving various purposes:
 
