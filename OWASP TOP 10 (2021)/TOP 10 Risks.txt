@@ -2,13 +2,13 @@
 # Writed BY: Kyrillos Nady                              #
 # Date: 2/1/2024                                        #
 # Topic: OWASP TOP 10 Risks (2021)                      #
-# Linkedin:                                             #
+# Linkedin:                                             # 
 # - https://www.linkedin.com/in/kyrillos-nady-804003297 #
 # References:                                           #
 # - https://tryhackme.com/room/owasptop102021           #
 # - https://owasp.org/Top10/                            #
 #########################################################
-*************************************************************************************
+**********************************************************
 OWASP TOP 10 (2021):
 
 1-  Broken Access Control
