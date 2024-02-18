@@ -63,6 +63,7 @@ Yes I like to use ChatGPT to assist, optimize and prototype ideas and Enhance co
 - **Cheat Sheets:** [Pentest Book by Six2dez](https://pentestbook.six2dez.com/)
 - **OSINT Tools:** [OSINT Framework](https://osintframework.com/)
 - **Hacking Techniques:** [HackTricks](https://book.hacktricks.xyz/)
+- **OWASP TOP 10:** [OWASP Resources](https://github.com/kyrillos-nady/Penetration-Test/tree/main/OWASP%20TOP%2010%20(2021))
 
 ### 📺 Recommended YouTube Videos
 - [Ebrahem Hegazy Podcast](https://youtu.be/RTP3wGflIOw?si=PnohcWRrmk6L_tUu)
