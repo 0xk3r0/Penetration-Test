@@ -91,3 +91,6 @@ Logging every user action is vital for tracing and determining the impact of an 
 SSRF vulnerabilities arise when an attacker coerces a web application to send requests on their behalf. Exploiting third-party services, attackers can gain unauthorized access, enumerate internal networks, and even achieve remote code execution.
 
 ---
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
