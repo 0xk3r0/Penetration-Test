@@ -1,3 +1,5 @@
+# Penetration Testing Practice Platform
+
 - [Hacker101](https://ctf.hacker101.com/) - Free
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free
 - [OWASP Top 10](https://application.security/free/owasp-top-10) - Free
@@ -24,3 +26,7 @@
 - [Hacking Challenges](http://www.hacking-challenges.de/) - Free
 - [Webhacking.kr](https://webhacking.kr/) - Free
 - [Zenk Security](https://www.zenk-security.com/) - Free
+
+- ## License
+
+This project is licensed under the [MIT License](LICENSE).
