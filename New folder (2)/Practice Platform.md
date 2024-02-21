@@ -1,4 +1,4 @@
-# Penetration Testing Practice Platform
+# Penetration Testing Practice Platforms
 
 - [Hacker101](https://ctf.hacker101.com/) - Free
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free
