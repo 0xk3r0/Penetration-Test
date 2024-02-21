@@ -93,4 +93,4 @@ SSRF vulnerabilities arise when an attacker coerces a web application to send re
 ---
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/kyrillos-nady/kyrillos-nady/blob/main/LICENSE) file for details.
